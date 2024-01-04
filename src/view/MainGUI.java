@@ -52,7 +52,7 @@ public class MainGUI {
 	private void initialize() {
 		frame = new JFrame();
 		frame.setIconImage(Toolkit.getDefaultToolkit().getImage("D:\\eclipse-workspace\\ParidadesEmJava\\icon.ico"));
-		frame.setTitle("Resgatar Paridades");
+		frame.setTitle("Resgatar Paridades 2024");
 		frame.setBounds(100, 100, 535, 356);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setResizable(false);

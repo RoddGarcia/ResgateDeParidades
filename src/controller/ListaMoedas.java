@@ -39,7 +39,7 @@ public class ListaMoedas {
 		
 		int maxDias = 31;
         int mes = mesFinal_;
-        String ano = "2023";
+        String ano = "2024";
 
         // Instância do HttpClient
         HttpClient httpClient = HttpClient.newHttpClient();
@@ -170,7 +170,7 @@ public class ListaMoedas {
 		this.mesUnico_ = (Integer) numMes;
 		
 		int maxDias = 31;
-        String ano = "2023";
+        String ano = "2024";
 
         // Instância do HttpClient
         HttpClient httpClient = HttpClient.newHttpClient();
